@@ -18,8 +18,9 @@ A browser-based implementation of the classic Snake game — built from scratch 
 
 ## Preview
 
-[ assets/gameplay.gif ]
+ ![Game Play]( ./assets/gameplay.gif )
 
+ 
 ---
 
 ## Live Demo
